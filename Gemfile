@@ -45,6 +45,7 @@ end
 gem 'bcrypt-ruby', '~> 3.1.2'
 gem 'logstasher'
 
+gem 'devise'
 # Use unicorn as the app server
 # gem 'unicorn'
 
